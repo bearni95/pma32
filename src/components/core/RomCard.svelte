@@ -1,12 +1,13 @@
 <script lang="ts">
 	import classNames from 'classnames';
+	import { base } from '$app/paths';
 	import type { Rom } from '$types/rom.type';
 
 	export let rom: Rom;
 	export let classes: string = '';
 
-	$: href = encodeURI(rom.file);
-	$: imageHref = rom.image ? encodeURI(rom.image) : null;
+	$: href = base + encodeURI(rom.file);
+	$: imageHref = rom.image ? base + encodeURI(rom.image) : null;
 
 	$: cardClasses = classNames(
 		'block hover:scale-105 transition-transform',
