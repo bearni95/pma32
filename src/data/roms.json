@@ -1,0 +1,276 @@
+{
+	"generatedAt": "2026-05-03T16:33:11.004Z",
+	"totalRoms": 32,
+	"consoles": [
+		{
+			"id": "gba",
+			"name": "Game Boy Advance",
+			"short": "GBA",
+			"roms": [
+				{
+					"id": "Dragon Ball - Advanced Adventure (USA)",
+					"title": "Dragon Ball - Advanced Adventure",
+					"file": "/roms/Dragon Ball - Advanced Adventure (USA).gba",
+					"image": "/roms/gba-other/Imgs/Dragon Ball - Advanced Adventure (USA).png",
+					"size": 16777216,
+					"ext": "gba"
+				},
+				{
+					"id": "Hamtaro - Ham-Ham Heartbreak (USA)",
+					"title": "Hamtaro - Ham-Ham Heartbreak",
+					"file": "/roms/Hamtaro - Ham-Ham Heartbreak (USA).gba",
+					"image": "/roms/gba-other/Imgs/Hamtaro - Ham-Ham Heartbreak (USA).png",
+					"size": 8388608,
+					"ext": "gba"
+				},
+				{
+					"id": "Mario Kart - Super Circuit (USA)",
+					"title": "Mario Kart - Super Circuit",
+					"file": "/roms/Mario Kart - Super Circuit (USA).gba",
+					"image": "/roms/gba-other/Imgs/Mario Kart - Super Circuit (USA).png",
+					"size": 4194304,
+					"ext": "gba"
+				},
+				{
+					"id": "MiraiRetro Megaman Battle Network 1 (Espanol) V1.7",
+					"title": "Megaman Battle Network 1",
+					"file": "/roms/MiraiRetro Megaman Battle Network 1 (Espanol) V1.7.gba",
+					"image": "/roms/gba-other/Imgs/MiraiRetro Megaman Battle Network 1 (Espanol) V1.7.png",
+					"size": 8578352,
+					"ext": "gba"
+				},
+				{
+					"id": "Megaman Battle Network 2 (U) [!]",
+					"title": "Megaman Battle Network 2",
+					"file": "/roms/Megaman Battle Network 2 (U) [!].gba",
+					"image": "/roms/gba-other/Imgs/Megaman Battle Network 2 (U) [!].png",
+					"size": 8388608,
+					"ext": "gba"
+				},
+				{
+					"id": "Megaman Battle Network 3 - Blue Version (U)",
+					"title": "Megaman Battle Network 3",
+					"file": "/roms/Megaman Battle Network 3 - Blue Version (U).gba",
+					"image": "/roms/gba-other/Imgs/Megaman Battle Network 3 - Blue Version (U).png",
+					"size": 8388608,
+					"ext": "gba"
+				},
+				{
+					"id": "Megaman Battle Network 4 - Red Sun (U)",
+					"title": "Megaman Battle Network 4",
+					"file": "/roms/Megaman Battle Network 4 - Red Sun (U).gba",
+					"image": "/roms/gba-other/Imgs/Megaman Battle Network 4 - Red Sun (U).png",
+					"size": 8388608,
+					"ext": "gba"
+				},
+				{
+					"id": "Megaman Battle Network 5 - Team Protoman (U)",
+					"title": "Megaman Battle Network 5",
+					"file": "/roms/Megaman Battle Network 5 - Team Protoman (U).gba",
+					"image": "/roms/gba-other/Imgs/Megaman Battle Network 5 - Team Protoman (U).png",
+					"size": 8388608,
+					"ext": "gba"
+				},
+				{
+					"id": "Megaman Battle Network 6 - Cybeast Gregar (U)",
+					"title": "Megaman Battle Network 6",
+					"file": "/roms/Megaman Battle Network 6 - Cybeast Gregar (U).gba",
+					"image": "/roms/gba-other/Imgs/Megaman Battle Network 6 - Cybeast Gregar (U).png",
+					"size": 8388608,
+					"ext": "gba"
+				},
+				{
+					"id": "MiraiRetro Metal Slug Advance (Espanol)",
+					"title": "Metal Slug Advance",
+					"file": "/roms/MiraiRetro Metal Slug Advance (Espanol).gba",
+					"image": "/roms/gba-other/Imgs/MiraiRetro Metal Slug Advance (Espanol).png",
+					"size": 8388608,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Classic 151",
+					"title": "Pokemon Classic 151",
+					"file": "/roms/gba-pokemon/Pokemon Classic 151.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Classic 151.png",
+					"size": 33554432,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Edicion Esmeralda",
+					"title": "Pokemon Edicion Esmeralda",
+					"file": "/roms/gba-pokemon/Pokemon Edicion Esmeralda.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Edicion Esmeralda.png",
+					"size": 16777216,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Edicion Rojo Fuego",
+					"title": "Pokemon Edicion Rojo Fuego",
+					"file": "/roms/gba-pokemon/Pokemon Edicion Rojo Fuego.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Edicion Rojo Fuego.png",
+					"size": 16777216,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Edicion Verde Hoja",
+					"title": "Pokemon Edicion Verde Hoja",
+					"file": "/roms/gba-pokemon/Pokemon Edicion Verde Hoja.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Edicion Verde Hoja.png",
+					"size": 16777216,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Gaia",
+					"title": "Pokemon Gaia",
+					"file": "/roms/gba-pokemon/Pokemon Gaia.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Gaia.png",
+					"size": 33554432,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Lets Go Eevee",
+					"title": "Pokemon Lets Go Eevee",
+					"file": "/roms/gba-pokemon/Pokemon Lets Go Eevee.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Lets Go Eevee.png",
+					"size": 33554432,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Lets Go Pikachu",
+					"title": "Pokemon Lets Go Pikachu",
+					"file": "/roms/gba-pokemon/Pokemon Lets Go Pikachu.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Lets Go Pikachu.png",
+					"size": 33554432,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Mega Hoenn Adventure",
+					"title": "Pokemon Mega Hoenn Adventure",
+					"file": "/roms/gba-pokemon/Pokemon Mega Hoenn Adventure.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Mega Hoenn Adventure.png",
+					"size": 33554432,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Orange Island",
+					"title": "Pokemon Orange Island",
+					"file": "/roms/gba-pokemon/Pokemon Orange Island.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Orange Island.png",
+					"size": 16777216,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Rubi",
+					"title": "Pokemon Rubi",
+					"file": "/roms/gba-pokemon/Pokemon Rubi.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Rubi.png",
+					"size": 16777216,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon TeamRocket Edition",
+					"title": "Pokemon TeamRocket Edition",
+					"file": "/roms/gba-pokemon/Pokemon TeamRocket Edition.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon TeamRocket Edition.png",
+					"size": 33554432,
+					"ext": "gba"
+				},
+				{
+					"id": "Pokemon Zafiro",
+					"title": "Pokemon Zafiro",
+					"file": "/roms/gba-pokemon/Pokemon Zafiro.gba",
+					"image": "/roms/gba-pokemon/Imgs/Pokemon Zafiro.png",
+					"size": 16777216,
+					"ext": "gba"
+				},
+				{
+					"id": "Super Mario Advance 2 - Super Mario World (USA, Australia)",
+					"title": "Super Mario World",
+					"file": "/roms/Super Mario Advance 2 - Super Mario World (USA, Australia).gba",
+					"image": "/roms/gba-other/Imgs/Super Mario Advance 2 - Super Mario World (USA, Australia).png",
+					"size": 4194304,
+					"ext": "gba"
+				},
+				{
+					"id": "1364 - Yu-Gi-Oh! - The Sacred Cards (E)(Rising Sun)",
+					"title": "Yu-Gi-Oh! - The Sacred Cards",
+					"file": "/roms/1364 - Yu-Gi-Oh! - The Sacred Cards (E)(Rising Sun).gba",
+					"image": "/roms/gba-other/Imgs/1364 - Yu-Gi-Oh! - The Sacred Cards (E)(Rising Sun).png",
+					"size": 16777216,
+					"ext": "gba"
+				}
+			]
+		},
+		{
+			"id": "gbc",
+			"name": "Game Boy Color",
+			"short": "GBC",
+			"roms": [
+				{
+					"id": "Pokémon Amarillo",
+					"title": "Pokémon Amarillo",
+					"file": "/roms/gbc-pokemon/Pokémon Amarillo.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokémon Amarillo.png",
+					"size": 1048576,
+					"ext": "gbc"
+				},
+				{
+					"id": "Pokemon Edicion Azul",
+					"title": "Pokemon Edicion Azul",
+					"file": "/roms/gbc-pokemon/Pokemon Edicion Azul.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokemon Edicion Azul.png",
+					"size": 1048576,
+					"ext": "gbc"
+				},
+				{
+					"id": "Pokemon Edicion Cristal",
+					"title": "Pokemon Edicion Cristal",
+					"file": "/roms/gbc-pokemon/Pokemon Edicion Cristal.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokemon Edicion Cristal.png",
+					"size": 2097152,
+					"ext": "gbc"
+				},
+				{
+					"id": "Pokemon Edicion Oro",
+					"title": "Pokemon Edicion Oro",
+					"file": "/roms/gbc-pokemon/Pokemon Edicion Oro.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokemon Edicion Oro.png",
+					"size": 2097152,
+					"ext": "gbc"
+				},
+				{
+					"id": "Pokemon Edicion Plata",
+					"title": "Pokemon Edicion Plata",
+					"file": "/roms/gbc-pokemon/Pokemon Edicion Plata.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokemon Edicion Plata.png",
+					"size": 2097152,
+					"ext": "gbc"
+				},
+				{
+					"id": "Pokemon Edicion Roja",
+					"title": "Pokemon Edicion Roja",
+					"file": "/roms/gbc-pokemon/Pokemon Edicion Roja.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokemon Edicion Roja.png",
+					"size": 1048576,
+					"ext": "gbc"
+				},
+				{
+					"id": "Pokemon Prism",
+					"title": "Pokemon Prism",
+					"file": "/roms/gbc-pokemon/Pokemon Prism.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokemon Prism.png",
+					"size": 2097152,
+					"ext": "gbc"
+				},
+				{
+					"id": "Pokemon Super Oro 97",
+					"title": "Pokemon Super Oro 97",
+					"file": "/roms/gbc-pokemon/Pokemon Super Oro 97.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokemon Super Oro 97.png",
+					"size": 2097152,
+					"ext": "gbc"
+				}
+			]
+		}
+	]
+}
