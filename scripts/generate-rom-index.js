@@ -129,7 +129,9 @@ function generate() {
 	};
 
 	writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, '\t'));
-	console.log(`Wrote ${output.totalRoms} ROMs across ${orderedConsoles.length} consoles to ${OUTPUT_PATH}`);
+	console.log(
+		`Wrote ${output.totalRoms} ROMs across ${orderedConsoles.length} consoles to ${OUTPUT_PATH}`
+	);
 	for (const c of orderedConsoles) {
 		console.log(`  ${c.short}: ${c.roms.length}`);
 	}
