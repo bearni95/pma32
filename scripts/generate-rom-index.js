@@ -59,7 +59,7 @@ function cleanTitle(name) {
 
 function toWebPath(absolutePath) {
 	const rel = relative(join(__dirname, '../static'), absolutePath);
-	return '/' + rel.split('\\').join('/');
+	return ('/' + rel.split('\\').join('/')).normalize('NFC');
 }
 
 function buildImageMap(allFiles) {
@@ -104,9 +104,10 @@ function generate() {
 		const imagePath = findImage(file, imageMap);
 		const stats = statSync(file);
 
+		const name = parsed.name.normalize('NFC');
 		consoles[consoleId].roms.push({
-			id: parsed.name,
-			title: cleanTitle(parsed.name) || parsed.name,
+			id: name,
+			title: cleanTitle(name) || name,
 			file: toWebPath(file),
 			image: imagePath ? toWebPath(imagePath) : null,
 			size: stats.size,

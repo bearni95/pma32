@@ -1,5 +1,5 @@
 {
-	"generatedAt": "2026-05-03T16:33:11.004Z",
+	"generatedAt": "2026-05-03T17:17:58.329Z",
 	"totalRoms": 32,
 	"consoles": [
 		{
@@ -207,10 +207,10 @@
 			"short": "GBC",
 			"roms": [
 				{
-					"id": "Pokémon Amarillo",
-					"title": "Pokémon Amarillo",
-					"file": "/roms/gbc-pokemon/Pokémon Amarillo.gbc",
-					"image": "/roms/gbc-pokemon/Imgs/Pokémon Amarillo.png",
+					"id": "Pokémon Amarillo",
+					"title": "Pokémon Amarillo",
+					"file": "/roms/gbc-pokemon/Pokémon Amarillo.gbc",
+					"image": "/roms/gbc-pokemon/Imgs/Pokémon Amarillo.png",
 					"size": 1048576,
 					"ext": "gbc"
 				},
